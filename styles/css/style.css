@@ -1,0 +1,31 @@
+body {
+    color: lightgoldenrodyellow;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    background-image: url("../../images/bg.png")
+}
+
+h3 {
+    font-size: 40px;
+}
+
+h1 {
+    text-shadow: 5px 5px lightblue;
+}
+
+.info_container {
+    background-color: lightblue;
+    border-color: lightgoldenrodyellow solid;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 13px;
+    margin-bottom: 15px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 16px;
+}
+
+.namdi_family {
+    font-size: 35px;
+}
