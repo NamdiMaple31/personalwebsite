@@ -1,0 +1,1 @@
+alert('Let the Maple experience begin') 

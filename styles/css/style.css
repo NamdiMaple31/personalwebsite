@@ -2,19 +2,24 @@ body {
     color: lightgoldenrodyellow;
     font-size: 50px;
     text-align: center;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Dancing Script', serif;
     background-image: url("../../images/bg.png")
+}
+
+h2 {
+    text-shadow: 5px 5px lightblue;
 }
 
 h3 {
     font-size: 40px;
+    text-shadow: 5px 5px lightblue;
 }
 
 h1 {
     text-shadow: 5px 5px lightblue;
 }
 
-.info_container {
+#info_container {
     background-color: lightblue;
     border-color: lightgoldenrodyellow solid;
     border-width: 10px;
@@ -28,4 +33,23 @@ h1 {
 
 .namdi_family {
     font-size: 35px;
+}
+
+.info_container img {
+    float: left;
+    height: 200px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#info_chamber {
+    background-color: lightblue;
+    border-color: lightgoldenrodyellow solid;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 13px;
+    margin-bottom: 15px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 16px;
 }
